@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MathJump</string>
+    <string name="title">MathJump!</string>
+    <string name="background">Background</string>
+    <string name="playTxt">Play!</string>
+
 </resources>
